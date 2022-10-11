@@ -16,7 +16,7 @@
 | [Philo](../../../Philosophers)				|		✔ (100)		|
 | [MiniShell](../../../../cdefonte42/MiniShell)	|		✔ (98)		|
 | [push_swap](../../../push_swap)				|		✔ (90)		|
-| [cub3d](../../../../cdefonte42/Cube3D)	|		? (??)		|
+| [cub3d](../../../../cdefonte42/Cube3D)	|		✔ (125)		|
 
 [![mbraets's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c0qe15000609mua7kwra5d?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 <!---
