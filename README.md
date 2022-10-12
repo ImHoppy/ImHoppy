@@ -19,7 +19,7 @@
 | [cub3d](../../../../cdefonte42/Cube3D)	|		✔ (125)		|
 
 [![mbraets's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c0qe15000609mua7kwra5d?cursusId=21)](https://github.com/JaeSeoKim/badge42)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![ImHoppy's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbraets&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ImHoppy/ImHoppy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
