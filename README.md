@@ -17,6 +17,7 @@
 | [MiniShell](../../../../cdefonte42/MiniShell)	|		✔ (98)		|
 | [push_swap](../../../push_swap)				|		✔ (90)		|
 | [cub3d](../../../../cdefonte42/Cube3D)	|		✔ (125)		|
+| [WebServ](../../../webserv)				|		❓ (0)		|
 
 [Repo exam](../../../42-exams)
 
