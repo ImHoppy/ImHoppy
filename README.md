@@ -18,7 +18,8 @@
 | [push_swap](../../../push_swap)				|		✔ (90)		|
 | [cub3d](../../../../cdefonte42/Cube3D)	|		✔ (125)		|
 | [WebServ](../../../webserv)				|		✔ (125)		|
-| [ft_containers](../../../ft_containers)				|		❓ (0)		|
+| [ft_containers](../../../ft_containers)				|		✔ (125)		|
+| [ft_transcendence](../../../../jremy42/ft_transcendence)				|		✔ (100)		|
 
 [Repo exam](../../../42-exams)
 
