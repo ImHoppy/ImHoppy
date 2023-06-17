@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImHoppy. I study at 42Paris.
 <!-- - 👀 I’m interested in Java and C -->
 
-- 🌱 I’m currently learning `Typescript / Java`
+- 🌱 I'm currently enjoying `Typescript` at the moment and learning `C# and Java`
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me :
   - Discord : `Hoppy#3801`
