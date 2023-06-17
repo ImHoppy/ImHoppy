@@ -6,6 +6,7 @@
 - 📫 How to reach me :
   - Discord : `Hoppy#3801`
 
+### Here is the list of my finished project at school 42
 |					Projects					|		Status		|		Rushes			
 | ---------------------------------------------	| -----------------	| ---------------------	
 | [fdf](../../../fdf)							|		✔ (125)		| [yasl](../../../yasl)	
