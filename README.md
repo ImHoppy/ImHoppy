@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @ImHoppy. I study at 42Paris.
 <!-- - 👀 I’m interested in Java and C -->
 - 👪 Help the flashback rp team on all the frontend part.
+
 - 🌱 I'm currently enjoying `Typescript` at the moment and learning `C# and Java`
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me :
-  - Discord : `Hoppy#3801`
+  - Discord : `hop.py`
 
 ### Here is the list of my finished project at school 42
 |					Projects					|		Status		|		Rushes			
