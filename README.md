@@ -26,7 +26,7 @@
 [Repo exam](../../../42-exams)
 
 
-[![mbraets's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c0qe15000609mua7kwra5d?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+[![42 stats](https://badge42.vercel.app/api/v2/stats/cl1c0qe15000609mua7kwra5d?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 [![ImHoppy's langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imhoppy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
