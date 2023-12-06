@@ -10,28 +10,28 @@
 ### Here is the list of my finished project at school 42
 <table>
   <tr>
-    <td align="center">
+    <td width="256px" align="center">
       <a href="../../../fdf"><b>FDF 🗺</b></a><br />
       Fdf is my first graphic programming project that turns landscapes into 3D wireframe models.
     </td>
-    <td align="center">
+    <td width="256px" align="center">
       <a href="../../../../cdefonte42/Cube3D"><b>Cub3d 🎮</b></a><br />
       cub3D, my second project employing RayCaster and miniLibX, draws from Wolfenstein 3D, offering a cooperative multiplayer maze.
     </td>
-    <td align="center">
+    <td width="256px" align="center">
       <a href="../../../webserv"><b>WebServ 🌐</b></a><br />
       WebServ, a project in C++, empowers you to create your own HTTP server, allowing real browser testing.
   </tr>
   <tr>
-    <td align="center">
+    <td width="256px" align="center">
       <a href="../../../../jremy42/42-ft_transcendence"><b>ft_transcendence 🏓</b></a><br />
       The ft_transcendence project involved creating a website for online multiplayer Pong gameplay. We implemented real-time gaming features, secure user authentication using OAuth, and a chat system for player communication.
     </td>
-    <td align="center">
+    <td width="256px" align="center">
       <a href="../../../snow-crash"><b>Snow Crash ❄️💥</b></a><br />
       Dive into computer security, exploring languages and developing logic for deciphering unknown programs with a developer-centric approach.
     </td>
-    <td align="center">
+    <td width="256px" align="center">
       <a href="../../../override"><b>Override 📚</b></a><br />
       <a href="../../../rainfall"><b>Rainfall 📚</b></a><br />
       Rainfall and Override: Explore (elf-like) binary exploitation, from reverse engineering to fault detection in Rainfall, and advanced binary reconstruction in Override.
