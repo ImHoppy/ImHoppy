@@ -2,7 +2,7 @@
 <!-- - 👀 I’m interested in Java and C -->
 - 👪 Help the FlashbackWL team.
 
-- 🌱 I'm currently enjoying `Typescript` at the moment and learning `C# and Java`
+- 🌱 I'm currently enjoying `Typescript` at the moment and learning `Rust and C#`
 <!-- - 💞️ I’m looking to collaborate on  -->
 - 📫 How to reach me :
   - Discord : `hop.py`
