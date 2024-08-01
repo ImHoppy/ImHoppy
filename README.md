@@ -3,17 +3,13 @@ I'm a student at **42Paris** with a passion for developing embedded software and
 
 ## Projects
 - 👪 I contribute to the FlashBackWL & FlashFA team.
-- 📚 All of my 42 projects are available in my [repository list](https://github.com/ImHoppy?tab=repositories).
+- 📚 All of my 42 projects are available in my [repository list](../../../?tab=repositories&q=42-).
 
 ## Current Interests
 - 🌱 I'm currently enjoying working with Rust.
 
 ## Contact Me
-Discord: hop.py
-Email: your-email@example.com
-
-## Contact Me
-- Discord: `hop.py`
+- 💬 Discord: `hop.py`
 - ✉️ [Email](mailto:dev.hoppy@gmail.com)
 
 ## Github Stats
