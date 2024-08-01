@@ -1,15 +1,23 @@
-- 👋 Hi, I’m @ImHoppy. I study at 42Paris.
-<!-- - 👀 I’m interested in Java and C -->
-- 👪 Help the FlashbackWL team.
+# Hi, I'm @ImHoppy! 👋
+I'm a student at **42Paris** with a passion for developing embedded software and many other things.
 
-- 🌱 I'm currently enjoying `Typescript` at the moment and learning `Rust and C#`
-<!-- - 💞️ I’m looking to collaborate on  -->
-- 📫 How to reach me :
-  - Discord : `hop.py`
+## Projects
+- 👪 I contribute to the FlashBackWL & FlashFA team.
+- 📚 All of my 42 projects are available in my [repository list](https://github.com/ImHoppy?tab=repositories).
 
-All of 42 projects are available on my [Repo list](../../../?tab=repositories&q=42-)
+## Current Interests
+- 🌱 I'm currently enjoying working with Rust.
 
-[![42 stats](https://badge42.vercel.app/api/v2/stats/cl1c0qe15000609mua7kwra5d?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+## Contact Me
+Discord: hop.py
+Email: your-email@example.com
+
+## Contact Me
+- Discord: `hop.py`
+- ✉️ [Email](mailto:dev.hoppy@gmail.com)
+
+## Github Stats
+<!---[![42 stats](https://badge42.vercel.app/api/v2/stats/cl1c0qe15000609mua7kwra5d?cursusId=21)](https://github.com/JaeSeoKim/badge42)--->
 [![ImHoppy's langs](https://github-readme-stats-nine-green-80.vercel.app/api/top-langs/?username=imhoppy&layout=compact&theme=dark&exclude_repo=github-readme-stats,react-leaflet-heatmap-layer&hide=Roff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
